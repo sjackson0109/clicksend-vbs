@@ -1,0 +1,1 @@
+Original source: https://raw.githubusercontent.com/jcurreee/pagerduty-vbs/master/PagerDuty.vbs

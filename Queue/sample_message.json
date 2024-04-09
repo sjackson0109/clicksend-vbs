@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "source":"postman",
+            "to":"+44111111111",
+            "body":"This is a test"
+        }
+    ]
+}
