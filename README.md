@@ -53,6 +53,18 @@ cd C:\ClickSend
 cscript -nologo ClickSend.vbs
 ```
 
+### Sample output:
+```cmd
+cscript -nologo .\ClickSend.vbs
+Inspecting Queue folder
+ Processing: .\Queue\sample_message.json
+ Creating LOCK file: .\Queue\sample_message.json.lock
+Response from Remote Server is: [200] {"http_code":200,"response_code":"SUCCESS","response_msg":"Welcome to ClickSend API v3.","data":null}
+Deleting alert file: .\Queue\sample_message.json
+Deleting lock file: .\Queue\sample_message.json.lock
+Processing of files in the queue folder completed.
+```
+
 ## Running this script (SCHEDULED)
 1. **Open Task Scheduler:**
    - Press `Win + R` to open the Run dialog.

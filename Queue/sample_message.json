@@ -1,9 +1,10 @@
 {
     "messages": [
         {
-            "source":"postman",
-            "to":"+44111111111",
-            "body":"This is a test"
+            "source":"vbscript",
+            "country":"GB",
+            "to":"+4411111111111",
+            "body":"Dude. What does mine say?!"
         }
     ]
 }
